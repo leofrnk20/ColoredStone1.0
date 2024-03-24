@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "coloredstone:block/light_green_colored_chiseled_stone"
+  }
+}

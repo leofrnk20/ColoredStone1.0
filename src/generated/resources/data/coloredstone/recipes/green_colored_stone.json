@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:green_dye"
+    },
+    "C": {
+      "item": "coloredstone:colored"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " # ",
+    " C ",
+    " S "
+  ],
+  "result": {
+    "item": "coloredstone:green_colored_stone"
+  }
+}

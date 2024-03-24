@@ -1,0 +1,10 @@
+/give Dev coloredstone:cbrush
+/time set day
+/gamemode survival
+/give Dev coal
+/give Dev minecraft:black_dye
+/g
+/fill 8 79 12
+/fill 8 79 12 -2 79 6 minecraft:stone
+/time set day
+/give Dev coloredstone:black_colored_stone_slab

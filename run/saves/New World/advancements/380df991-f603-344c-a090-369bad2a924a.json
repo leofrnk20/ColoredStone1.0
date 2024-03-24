@@ -1,0 +1,855 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-03-22 16:29:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-03-22 16:29:51 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-23 00:03:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-23 10:06:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-03-23 10:21:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-03-23 10:22:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-03-23 10:22:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-03-23 11:36:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-03-23 11:36:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-03-23 11:36:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-23 11:36:36 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/colored_block": {
+    "criteria": {
+      "has_colored": "2024-03-24 10:25:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/colored_from_smelting_colored": {
+    "criteria": {
+      "has_colored": "2024-03-24 10:25:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/colored_from_blasting_colored": {
+    "criteria": {
+      "has_colored": "2024-03-24 10:25:06 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/red_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:14:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-03-24 12:14:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-03-24 12:14:31 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_blue_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_light_green_colored_stone": {
+    "criteria": {
+      "has_light_green_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/pink_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_red_colored_stone": {
+    "criteria": {
+      "has_red_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_black_colored_stone": {
+    "criteria": {
+      "has_black_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_orange_colored_stone": {
+    "criteria": {
+      "has_orange_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_red_colored_stone": {
+    "criteria": {
+      "has_red_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/orange_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_green_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_orange_colored_stone": {
+    "criteria": {
+      "has_orange_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/yellow_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/violet_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/cyan_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/green_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_light_green_colored_stone": {
+    "criteria": {
+      "has_light_green_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_blue_colored_stone": {
+    "criteria": {
+      "has_blue_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_black_colored_stone": {
+    "criteria": {
+      "has_black_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/black_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_blue_colored_stone": {
+    "criteria": {
+      "has_blue_colored_stone": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/blue_colored_stone": {
+    "criteria": {
+      "has_colored": "2024-03-24 12:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:36:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_cyan_colored_stone": {
+    "criteria": {
+      "has_cyan_colored_stone": "2024-03-24 12:42:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_cyan_colored_stone": {
+    "criteria": {
+      "has_cyan_colored_stone": "2024-03-24 12:42:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_green_colored_stone": {
+    "criteria": {
+      "has_green_colored_stone": "2024-03-24 12:42:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_light_blue_colored_stone": {
+    "criteria": {
+      "has_light_blue_colored_stone": "2024-03-24 12:42:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_light_blue_colored_stone": {
+    "criteria": {
+      "has_light_blue_colored_stone": "2024-03-24 12:42:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_green_colored_stone": {
+    "criteria": {
+      "has_green_colored_stone": "2024-03-24 12:42:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_pink_colored_stone": {
+    "criteria": {
+      "has_pink_colored_stone": "2024-03-24 12:42:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_pink_colored_stone": {
+    "criteria": {
+      "has_pink_colored_stone": "2024-03-24 12:42:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_yellow_colored_stone": {
+    "criteria": {
+      "has_yellow_colored_stone": "2024-03-24 12:42:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_smelting_violet_colored_stone": {
+    "criteria": {
+      "has_violet_colored_stone": "2024-03-24 12:42:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_yellow_colored_stone": {
+    "criteria": {
+      "has_yellow_colored_stone": "2024-03-24 12:42:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stone_from_blasting_violet_colored_stone": {
+    "criteria": {
+      "has_violet_colored_stone": "2024-03-24 12:42:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/colored_from_smelting_colored_ore": {
+    "criteria": {
+      "has_colored_ore": "2024-03-24 12:48:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/colored_from_blasting_colored_ore": {
+    "criteria": {
+      "has_colored_ore": "2024-03-24 12:48:15 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/colored": {
+    "criteria": {
+      "has_colored_block": "2024-03-24 12:48:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2024-03-24 12:49:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:49:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:49:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2024-03-24 12:49:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-03-24 12:49:55 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/red_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/blue_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/blue_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/pink_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/black_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/green_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/cyan_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_green_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/green_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/yellow_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/red_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/violet_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/cyan_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/orange_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_blue_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/green_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_blue_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/pink_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/yellow_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/red_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_green_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/violet_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/black_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/orange_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/orange_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/pink_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_blue_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/blue_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/violet_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/light_green_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/yellow_colored_stone_stair": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/cyan_colored_stone_slab": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "coloredstone:recipes/misc/black_colored_stone_wall": {
+    "criteria": {
+      "has_colored": "2024-03-24 17:08:50 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}

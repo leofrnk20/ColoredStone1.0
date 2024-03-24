@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "coloredstone:block/light_blue_colored_stone_slab"
+    },
+    "type=double": {
+      "model": "coloredstone:block/light_blue_colored_stone"
+    },
+    "type=top": {
+      "model": "coloredstone:block/light_blue_colored_stone_slab_top"
+    }
+  }
+}

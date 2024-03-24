@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "coloredstone:block/light_green_colored_stone"
+  }
+}

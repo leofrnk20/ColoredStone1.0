@@ -1,0 +1,9 @@
+// 1.20.4	2024-03-24T17:52:07.942861	Tags for minecraft:block mod id coloredstone
+180a82625c5850a741b7d05f37fb2d97ae5eeaee data/coloredstone/tags/blocks/colored_block.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/axe.json
+af2d2e23ab64e638ed864ccd9a8ad72ab1ac4017 data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/mineable/shovel.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+10a8db99cc46c3931a9202b407f95c19dbfcc999 data/minecraft/tags/blocks/needs_iron_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
+a655f8d49270919f5d5b0b9b8e52755f70297f40 data/minecraft/tags/blocks/walls.json

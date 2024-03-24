@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "coloredstone:block/violet_colored_stone_slab"
+    },
+    "type=double": {
+      "model": "coloredstone:block/violet_colored_stone"
+    },
+    "type=top": {
+      "model": "coloredstone:block/violet_colored_stone_slab_top"
+    }
+  }
+}
